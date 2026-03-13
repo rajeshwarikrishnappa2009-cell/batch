@@ -1,2 +1,2 @@
-# batch
-demo purpose
+# gitdemo
+display your idea
